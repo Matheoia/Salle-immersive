@@ -1,1 +1,2 @@
-# Salle-immersive
+# Réalisation d'une salle immersive
+
